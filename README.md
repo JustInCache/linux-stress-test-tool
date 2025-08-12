@@ -81,8 +81,10 @@ To run a CPU stress test for 120 seconds with 4 workers:
 
 ## License
 
-[LICENSE](LICENSE)
+[MIT LICENSE](LICENSE)
+
 ---
 
-**Author:**  
-Ankush Kolte
+**Author:** 
+
+Ankush
