@@ -81,9 +81,8 @@ To run a CPU stress test for 120 seconds with 4 workers:
 
 ## License
 
-This script is provided as-is, without warranty. Use at your own risk.
-
+[LICENSE](LICENSE)
 ---
 
 **Author:**  
-[linux-stress-test.sh](linux-stress-test.sh)
+Ankush Kolte
